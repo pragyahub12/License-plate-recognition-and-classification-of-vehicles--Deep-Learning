@@ -1,1 +1,2 @@
 # License-plate-recognition-and-classification-of-vehicles--Deep-Learning
+This project used several image enhancement techniques like CLAHE,Grayscale conversion,Filters,contrast ,etc to improve the quality of the image and then used OCR Python library to read the text written on the license plate.Further,it classified the vehicles state wise upon reading the state code on the license plate.The dataset used in this project was a custom-made dataset consisting of 686 images.
